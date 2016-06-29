@@ -1,0 +1,18 @@
+/* CSS Document */
+
+.titulo 
+{
+
+position: static;
+font:Verdana ;
+font-size:12px ;
+color:#000000;
+}
+.outro
+{
+	font:Verdana;
+	font-size:12px;
+	color:#666666;
+	left: -11px;
+	top: 15px;
+}

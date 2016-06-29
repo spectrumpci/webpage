@@ -15,11 +15,11 @@ description: # this means to ignore newlines until "baseurl:"
     agrícola (controle e monitoramento de irrigação).
     #  Novidades sobre a Spectrum vão ser postadas aqui, tais como marcos de 
     # desenvolvimento de nossos projetos.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "spectrumpci.com.br/blog" # the subpath of your site, e.g. /blog
 url: "http://spectrumpci.com.br" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  spectrumpci
 
 # Build settings
-#markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
+# markdown: redcarpet
